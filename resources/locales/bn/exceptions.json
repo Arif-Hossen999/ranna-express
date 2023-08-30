@@ -1,0 +1,51 @@
+{
+  "code_101": "D_LOGIN_SUCCESS",
+  "status_101": "101",
+  "type_101": "success",
+  "message_101": "সফলভাবে লগ ইন হয়েছে",
+
+  "code_102": "D_LOGIN_FAILED",
+  "status_102": "102",
+  "type_102": "error",
+  "message_102": "লগইন ব্যর্থ",
+
+  "code_200": "Z_RESOURCE_ADD_SUCCESS",
+  "status_200": "200",
+  "type_200": "success",
+  "message_200": "{ resourceName } added successfully bangla",
+
+  "code_201": "Z_RESOURCE_ADD_ERROR",
+  "status_201": "201",
+  "type_201": "error",
+  "message_201": "{ resourceName } added Failed bangla",
+
+  "code_202": "Z_RESOURCE_UPDATE_SUCCESS",
+  "status_202": "202",
+  "type_202": "success",
+  "message_202": "{ resourceName } updated successfully",
+
+  "code_203": "Z_RESOURCE_UPDATE_ERROR",
+  "status_203": "203",
+  "type_203": "error",
+  "message_203": "{ resourceName } updated Failed",
+
+  "code_204": "Z_RESOURCE_DELETE_SUCCESS",
+  "status_204": "204",
+  "type_204": "success",
+  "message_204": "{ resourceName } deleted successfully",
+
+  "code_205": "Z_RESOURCE_DELETE_ERROR",
+  "status_205": "205",
+  "type_205": "error",
+  "message_205": "{ resourceName } deletion Failed",
+
+  "code_206": "Z_DUPLICATE_DATA",
+  "status_206": "206",
+  "type_206": "error",
+  "message_206": "This { dataName } is already exist",
+
+  "code_405": "Z_RESOURCE_MISSING",
+  "status_405": "405",
+  "type_405": "error",
+  "message_405": "The {resourceName} you are looking is missing or probably has gone for a coffee break."
+}

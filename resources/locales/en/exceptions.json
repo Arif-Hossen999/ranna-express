@@ -1,0 +1,105 @@
+{
+  "code_001": "D_MAIL_SEND_SUCCESS",
+  "status_001": "001",
+  "type_001": "success",
+  "message_001": "An Email has been sent to your email address.Please follow the instructions.",
+
+  "code_002": "Z_MAIL_SEND_ERROR",
+  "status_002": "002",
+  "type_002": "error",
+  "message_002": "Email send failed. Please try again later.",
+
+  "status_003": "D_CODE_SEND_SUCCESS",
+  "type_003": "success",
+  "message_003": "A verification code has been sent to your email address.Please follow the instructions.",
+
+  "code_004": "Z_CODE_SEND_ERROR",
+  "status_004": "004",
+  "type_004": "error",
+  "message_004": "Verification code send failed. Please try again later.",
+
+  "code_101": "D_LOGIN_SUCCESS",
+  "status_101": "101",
+  "type_101": "success",
+  "message_101": "Successfully Logged In.",
+
+  "code_102": "D_LOGIN_FAILED",
+  "status_102": "102",
+  "type_102": "error",
+  "message_102": "Login Failed.",
+
+  "code_103": "D_VERIFIED_ERROR",
+  "status_103": "103",
+  "type_103": "error",
+  "message_103": "It seems neither your email nor phone is verified yet.Please verify your email or phone to access the resources.",
+
+  "code_104": "D_ACCOUNT_BLOCKED_ERROR",
+  "status_104": "104",
+  "type_104": "error",
+  "message_104": "It seems your account is temporarily blocked.Please contact the admin to access the resources.",
+
+  "code_105": "D_VERIFIED_SUCCESS",
+  "status_105": "105",
+  "type_105": "success",
+  "message_105": "Your account has been verified successfully. You can login now.",
+
+  "code_106": "D_VERIFIED_ERROR",
+  "status_106": "106",
+  "type_106": "error",
+  "message_106": "Account verification failed. Please try again later",
+
+  "code_200": "D_RESOURCE_ADD_SUCCESS",
+  "status_200": "200",
+  "type_200": "success",
+  "message_200": "{ resourceName } added successfully",
+
+  "code_201": "D_RESOURCE_ADD_ERROR",
+  "status_201": "201",
+  "type_201": "error",
+  "message_201": "{ resourceName } added Failed",
+
+  "code_202": "D_RESOURCE_UPDATE_SUCCESS",
+  "status_202": "202",
+  "type_202": "success",
+  "message_202": "{ resourceName } updated successfully",
+
+  "code_203": "D_RESOURCE_UPDATE_ERROR",
+  "status_203": "203",
+  "type_203": "error",
+  "message_203": "{ resourceName } updated Failed",
+
+  "code_204": "D_RESOURCE_DELETE_SUCCESS",
+  "status_204": "204",
+  "type_204": "success",
+  "message_204": "{ resourceName } deleted successfully",
+
+  "code_205": "D_RESOURCE_DELETE_ERROR",
+  "status_205": "205",
+  "type_205": "error",
+  "message_205": "{ resourceName } deletion Failed",
+
+  "code_206": "D_DUPLICATE_DATA",
+  "status_206": "206",
+  "type_206": "error",
+  "message_206": "This { dataName } is already exist",
+
+  "code_405": "D_RESOURCE_MISSING",
+  "status_405": "405",
+  "type_405": "error",
+  "message_405": "The {resourceName} you are looking is missing or probably has gone for a coffee break.",
+
+  "code_406": "D_RESOURCE_INVALID",
+  "status_406": "406",
+  "type_406": "error",
+  "message_406": "Invalid {resourceName} Extension.",
+
+  "code_407": "D_RESOURCE_MAX_SIZE",
+  "status_407": "407",
+  "type_407": "error",
+  "message_407": "Maximum {resourceName} size 2MB.",
+
+  "code_500": "D_SERVER_ERROR",
+  "status_500": "500",
+  "type_500": "error",
+  "message_500": "System is unable to handle your request now.Please try again later"
+}
